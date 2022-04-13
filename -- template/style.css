@@ -1,0 +1,8 @@
+html {
+    box-sizing: border-box; /*sprecava dodavanje extra width to the page*/
+}
+
+body{
+    margin: 0;
+    min-height: 100vh;  /*background ce biti preko cele strane, cak ako content nije dovoljan da pokrije celu stranu*/
+}
